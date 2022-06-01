@@ -1,0 +1,20 @@
+button {
+    font-family: 'Times New Roman';
+    color: #e4717a;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: #5c0010;
+    margin: 15px 15px;
+    border-radius: 10px 10px;
+    background-color: #ffe4ea;
+    
+}
+
+table {
+    align-content: center;
+    margin: auto;
+}
